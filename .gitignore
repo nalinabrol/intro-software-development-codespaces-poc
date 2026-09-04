@@ -1,0 +1,5 @@
+/add
+/created-in-terminal/
+__pycache__/
+*.pyc
+.pytest_cache/
